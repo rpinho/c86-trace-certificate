@@ -1,5 +1,7 @@
 # A certificate for C<sub>86</sub> ≤ 1.8117251 (Schur–Siegel–Smyth trace constant)
 
+**Newer result:** [complex-auxiliaries/](complex-auxiliaries/) proves C₈₆ ≤ 1.80697883 (unrefereed, 30 October 2026).
+
 Unrefereed preprints: [Hexagon 2610.00425v1](https://hexagonmath.org/2610.00425?version=1)
 and [Zenodo](https://doi.org/10.5281/zenodo.23486957).
 The certificate bound was [merged into Tao's table on October 18, 2026](https://github.com/teorth/optimizationproblems/pull/227).

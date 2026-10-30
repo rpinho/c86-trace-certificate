@@ -1,0 +1,12 @@
+[
+  {
+    "control": "lower-bound",
+    "rejected": true,
+    "log": "logs/final-lower-bound-control.log"
+  },
+  {
+    "control": "raised-weights",
+    "rejected": true,
+    "log": "logs/final-raised-weights-control.log"
+  }
+]

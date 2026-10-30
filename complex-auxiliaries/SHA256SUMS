@@ -1,0 +1,7 @@
+8d280256a8a2415a788ac0f4d86beeee20c67cf46a0a47b444c477766a756f57  ./PROOF.md
+af3131a7cba063398900147c0e0ee15ed6af19bbdc5faf8cf91047a01919a6da  ./README.md
+f59be9a136ad96930f20d4f9a7a6ff019d9a30ab9c9081c0c05582a3f8e0ea43  ./certificate.json
+5973262da7a11b4206d23c3dfe2354ac524fba896051ce8b6141c537e07d4b9a  ./final-negative-controls.json
+38faa40de47715b79bf292d04946857201c4d3dc777c82d63d6fff5ee04990d8  ./result-summary.json
+c44b9c508b8bdf6f825f49225adda9f9f6dfd24789d5a1af3ca04e0a16f537cc  ./verification.json
+b658122d9c278969f70eccce29a326f86ee8efc3121ca5ea502e666daae5e283  ./verify_linear.py
