@@ -1,0 +1,13 @@
+{
+  "valid": true,
+  "certificate_sha256": "59b716d8bcb9860e1d8e0df5b14612c518ee1ac845f0290d7a493814b30a7d51",
+  "bound": "361161821571210817/199999999999978000",
+  "bound_float": 1.8058091078562528,
+  "beats": true,
+  "threshold": "1.80697783",
+  "min_E4": 9.999958723994676e-08,
+  "pieces": 7954,
+  "min_E5_lower": 4.365938158980078e-09,
+  "maxdepth": 6,
+  "seconds": 318.54681420326233
+}
