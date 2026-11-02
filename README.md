@@ -1,5 +1,7 @@
 # A certificate for C<sub>86</sub> ≤ 1.8117251 (Schur–Siegel–Smyth trace constant)
 
+> **Archived.** This repository has moved to [rpinho/math-certificates/c86](https://github.com/rpinho/math-certificates/tree/main/c86). It stays online read-only, so existing links and pinned commits keep working.
+
 **Newest result:** [classical-half-cells/](classical-half-cells/) proves C₈₆ ≤ 1.80580911 (unrefereed, 1 November 2026).
 
 **Earlier result:** [complex-auxiliaries/](complex-auxiliaries/) proves C₈₆ ≤ 1.80697883 (unrefereed, 30 October 2026). Preprint: [hexagon:2610.00695](https://hexagonmath.org/2610.00695).
